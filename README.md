@@ -14,66 +14,59 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif"  />
+  <img src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" alt="Spinning Donut" width="300"/>
 </div>
 
-
-<h1 align="left"><Hi there></h1>
-
-
-<h3 align="left">About Me</h3>
-
-
-<p align="left">-> Hi, I'm Baver Koca, computer engineering student. <br>-> Living in Cyprus. Interest in web, mobile, game development, and machine learning.<br>-> I’m looking to collaborate on new projects.</p>
-
-
-<h3 align="center">Languages & Technologies & Tools</h3>
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-
-<h3 align="center">Contact</h3>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/baver-koca" target="_blank"/a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:baver.koca00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-
-<h3 align="center">Spinning Donut — C Code Example</h3>
+<h1 align="center">Hi there 👋, I'm Baver Koca</h1>
 
 <p align="center">
-  A classic terminal ASCII donut animation written in C.
+  <b>Computer Engineering Student | Cyprus</b><br>
+  <i>Web, Mobile, Game Development & Machine Learning Enthusiast</i>
 </p>
 
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Engineering student living in Cyprus  
+- 🌱 Currently learning: Web, Mobile, Game Development, and Machine Learning  
+- 🤝 Open to collaborating on new projects  
+- 💬 Ask me about anything tech-related!
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
+</p>
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baver-koca" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:baver.koca00@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
 <details>
-<summary><strong>Click to expand and see the code</strong></summary>
+<summary><strong>🌀 Spinning Donut — C Code Example</strong></summary>
 
 ```c
 #include <stdio.h>
@@ -145,3 +138,5 @@ int main() {
 
     return 0;
 }
+```
+</details>
