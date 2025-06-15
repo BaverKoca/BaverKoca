@@ -82,10 +82,17 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV"/>
+<<<<<<< HEAD
   <img src="https://mediapipe.dev/images/mediapipe-logo.svg" height="32" alt="MediaPipe"/>
   <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/docs/yolo-logo.png" height="32" alt="YOLO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="32" alt="OpenAI API"/>
   <img src="https://ollama.com/public/ollama-logo.svg" height="32" alt="Ollama"/>
+=======
+  <img src="assets/mediapipe.svg" height="32" alt="MediaPipe"/>
+  <img src="assets/yolo-logo.png" height="32" alt="YOLO"/>
+  <img src="assets/openai.svg" height="32" alt="OpenAI API"/>
+  <img src="assets/ollama.svg" height="32" alt="Ollama"/>
+>>>>>>> 1e730e1 (added pictures)
 </p>
 
 ---
