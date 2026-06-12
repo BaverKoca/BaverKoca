@@ -1,234 +1,202 @@
-````md
+```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=230&section=header&text=BAVER%20KOCA&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Systems%20Developer&descAlignY=56&descSize=17" />
+  <img src="./assets/banner.png" width="100%" />
+</p>
+
+<h1 align="center">BAVER KOCA</h1>
+
+<p align="center">
+  Full-Stack Engineer • AI Builder • Systems Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building%20Real%20Products-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Performance%20Focused-0D1117?style=for-the-badge&logo=lightning&logoColor=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Security%20Minded-0D1117?style=for-the-badge&logo=security&logoColor=58A6FF&labelColor=0D1117" />
+  Building products, not tutorials.
 </p>
 
 <p align="center">
-  <b>I build production-grade software across web, AI, security, marketplaces and operating systems.</b>
-</p>
-
-<p align="center">
-  Computer Engineering Student · Full-Stack Developer · AI & Systems Builder · Cyprus
-</p>
-
-<p align="center">
-  <a href="https://github.com/BaverKoca?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/baver-koca">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:baverkoca999@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/BaverKoca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
+<img src="./assets/beatbridge.png">
 
-### Vistara  
-**Marketplace Platform**
+### Beat Bridge
 
-Modern marketplace for real estate, vehicles and commercial listings.
+**Local-first music migration platform**
 
-**Stack**  
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL`
+Move playlists between Spotify, YouTube Music and future providers while maintaining full ownership of your data.
 
-**Focus**  
-Marketplace architecture, seller pages, listing flows, premium listings.
+**Stack**
 
+`Next.js` `TypeScript` `SQLite` `Local-first`
 </td>
+
 <td width="50%">
+<img src="./assets/finpilot.png">
 
-### Nutri Pulse  
-**Health & Fitness Platform**
+### FinPilot AI
 
-Premium health, nutrition and workout platform with product-level UX.
-
-**Stack**  
-`Next.js` · `Mobile` · `AI-ready architecture`
-
-**Focus**  
-Nutrition, workouts, body metrics, progress tracking.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### FinPilot AI  
 **AI Investing Terminal**
 
-AI-powered investing terminal inspired by Bloomberg, Perplexity and modern SaaS products.
+AI-powered investing platform inspired by Bloomberg Terminal and modern institutional tools.
 
-**Stack**  
-`Next.js` · `React` · `TypeScript` · `Charts` · `Local AI`
+**Stack**
 
-**Focus**  
-Portfolio, watchlist, market intelligence, AI command center.
-
+`Next.js` `TypeScript` `AI` `Finance`
 </td>
-<td width="50%">
 
-### BK-OS  
-**Operating System**
-
-32-bit hobby operating system built from scratch.
-
-**Stack**  
-`C` · `Assembly` · `QEMU` · `Low-level systems`
-
-**Focus**  
-Shell, memory, interrupts, scheduler, filesystem-style commands.
-
-</td>
 </tr>
 
 <tr>
+
 <td width="50%">
+<img src="./assets/bkos.png">
 
-### CipherFrame  
-**Secure Messaging App**
+### BK-OS
 
-Image encryption and secure messaging application.
+**32-bit Operating System**
 
-**Stack**  
-`FastAPI` · `SQLite` · `JWT` · `RSA` · `WebSocket`
+Operating system built from scratch with shell, scheduler, memory tools and low-level system components.
 
-**Focus**  
-Encryption, authentication, secure chat, admin/client roles.
+**Stack**
 
+`C` `Assembly` `QEMU`
 </td>
+
 <td width="50%">
+<img src="./assets/cancer-detector.png">
 
-### CARLA Research  
-**Autonomous Driving**
+### Cancer Detector
 
-Autonomous driving experiments using CARLA simulator.
+**Computer Vision & Medical AI**
 
-**Stack**  
-`Python` · `CARLA` · `Computer Vision` · `Simulation`
+Skin lesion analysis system using computer vision and machine learning techniques.
 
-**Focus**  
-Self-driving research, agents, perception, simulation workflows.
+**Stack**
 
+`Python` `OpenCV` `Machine Learning`
 </td>
+
 </tr>
 </table>
 
+---
+
+# 🛠 Core Stack
+
 <p align="center">
-  <a href="https://github.com/BaverKoca?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,postgres,docker,linux,git,github,tailwind,c,cpp" />
 </p>
 
 ---
 
-## Tech Stack
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,python,fastapi,postgres,prisma,docker,linux,git,tailwind,figma,c,cpp" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BaverKoca&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaverKoca&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BaverKoca&theme=github-dark-blue&hide_border=true" />
+
 </p>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaverKoca&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaverKoca&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaverKoca&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
----
-
-## Current Focus
+# 🎯 Currently Focused On
 
 <table>
 <tr>
-<td width="50%">
 
-### Building
+<td width="25%">
 
-```txt
-Vistara       → Marketplace platform
-Nutri Pulse   → Health product
-FinPilot AI   → AI investing terminal
-Spendly       → Personal finance app
-```
+### 🚀 Building
+
+- Beat Bridge
+- FinPilot AI
+- New Products
 
 </td>
-<td width="50%">
 
-### Research
+<td width="25%">
 
-```txt
-Local LLMs
-Autonomous Driving
-Operating Systems
-Cybersecurity
-Computer Vision
-```
+### 🧠 Research
+
+- Operating Systems
+- Local AI
+- Autonomous Driving
+- Computer Vision
 
 </td>
+
+<td width="25%">
+
+### 📚 Learning
+
+- Advanced Systems
+- AI Agents
+- Cybersecurity
+- Scalable Architectures
+
+</td>
+
+<td width="25%">
+
+### 💎 Philosophy
+
+- Build real products
+- Ship software
+- Learn by creating
+- Prefer depth over hype
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 2026 Roadmap
+# 📫 Connect
 
-```txt
-01. Ship Vistara as a real marketplace product
-02. Build Nutri Pulse as a premium health platform
-03. Develop FinPilot AI into an AI investing terminal
-04. Continue BK-OS and systems-level experiments
-05. Push deeper into local AI and autonomous driving
-```
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/baver-koca">
+LinkedIn
+</a>
 
-## Principles
+•
 
-```txt
-Clean architecture over shortcuts
-Premium UI over generic templates
-Real products over toy demos
-Technical depth over surface-level hype
-```
+<a href="mailto:baverkoca999@gmail.com">
+Email
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>Always building. Always improving.</b>
+<b>Always building.</b>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/baver-koca">
-    <img src="https://img.shields.io/badge/LinkedIn-Baver%20Koca-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:baverkoca999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-baverkoca999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=120&section=footer" />
-</p>
-````
+```
