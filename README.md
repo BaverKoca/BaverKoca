@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/baver-koca">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:baverkoca999@gmail.com">
+  <a href="mailto:baver.koca00@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BaverKoca?tab=repositories">
@@ -22,7 +22,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/beatbridge.png" width="100%" alt="Beat Bridge Preview" />
+<a href="https://github.com/BaverKoca/beatbridge">
+  <img src="./assets/beatbridge.png" width="100%" alt="BK-OS Preview" />
+</a>
 
 ### 🎵 Beat Bridge
 
@@ -33,7 +35,9 @@ Local-first music migration platform for moving playlists between Spotify, YouTu
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/finpilot.png" width="100%" alt="FinPilot AI Preview" />
+<a href="https://github.com/BaverKoca/finpilot">
+  <img src="./assets/finpilot.png" width="100%" alt="BK-OS Preview" />
+</a>
 
 ### 📈 FinPilot AI
 
@@ -59,7 +63,9 @@ AI investing terminal inspired by Bloomberg-style workflows, focused on portfoli
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/cancer-detector.png" width="100%" alt="Cancer Detector Preview" />
+<a href="https://github.com/BaverKoca/skin-cancer-detector">
+  <img src="./assets/cancer-detector.png" width="100%" alt="BK-OS Preview" />
+</a>
 
 ### 🧬 Cancer Detector
 
