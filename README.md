@@ -46,7 +46,9 @@ AI investing terminal inspired by Bloomberg-style workflows, focused on portfoli
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/bkos.png" width="100%" alt="BK-OS Preview" />
+<a href="https://github.com/BaverKoca/bk-os">
+  <img src="./assets/bkos.png" width="100%" alt="BK-OS Preview" />
+</a>
 
 ### 💻 BK-OS
 
