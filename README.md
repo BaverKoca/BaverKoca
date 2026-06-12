@@ -1,202 +1,125 @@
-```md
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
-</p>
-
-<h1 align="center">BAVER KOCA</h1>
-
-<p align="center">
-  Full-Stack Engineer • AI Builder • Systems Developer
-</p>
-
-<p align="center">
-  Building products, not tutorials.
+  <img src="./assets/banner.png" width="100%" alt="Baver Koca Banner" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baver-koca">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:baverkoca999@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://github.com/BaverKoca">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/BaverKoca?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-<img src="./assets/beatbridge.png">
+<img src="./assets/beatbridge.png" width="100%" alt="Beat Bridge Preview" />
 
-### Beat Bridge
+### 🎵 Beat Bridge
 
-**Local-first music migration platform**
-
-Move playlists between Spotify, YouTube Music and future providers while maintaining full ownership of your data.
-
-**Stack**
+Local-first music migration platform for moving playlists between Spotify, YouTube Music and future providers while keeping ownership of local credentials and data.
 
 `Next.js` `TypeScript` `SQLite` `Local-first`
+
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-<img src="./assets/finpilot.png">
+<img src="./assets/finpilot.png" width="100%" alt="FinPilot AI Preview" />
 
-### FinPilot AI
+### 📈 FinPilot AI
 
-**AI Investing Terminal**
-
-AI-powered investing platform inspired by Bloomberg Terminal and modern institutional tools.
-
-**Stack**
+AI investing terminal inspired by Bloomberg-style workflows, focused on portfolio analysis, market intelligence and premium financial UI.
 
 `Next.js` `TypeScript` `AI` `Finance`
-</td>
 
+</td>
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-<img src="./assets/bkos.png">
+<img src="./assets/bkos.png" width="100%" alt="BK-OS Preview" />
 
-### BK-OS
+### 💻 BK-OS
 
-**32-bit Operating System**
+32-bit hobby operating system built from scratch with shell commands, scheduler experiments, file utilities and low-level system components.
 
-Operating system built from scratch with shell, scheduler, memory tools and low-level system components.
+`C` `Assembly` `QEMU` `Low-level`
 
-**Stack**
-
-`C` `Assembly` `QEMU`
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-<img src="./assets/cancer-detector.png">
+<img src="./assets/cancer-detector.png" width="100%" alt="Cancer Detector Preview" />
 
-### Cancer Detector
+### 🧬 Cancer Detector
 
-**Computer Vision & Medical AI**
+Computer vision project for skin lesion analysis, risk scoring and medical image classification experiments.
 
-Skin lesion analysis system using computer vision and machine learning techniques.
+`Python` `OpenCV` `Machine Learning` `Computer Vision`
 
-**Stack**
-
-`Python` `OpenCV` `Machine Learning`
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🛠 Core Stack
+## 🛠 Core Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,postgres,docker,linux,git,github,tailwind,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,postgres,docker,linux,git,github,tailwind,c,cpp" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BaverKoca&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaverKoca&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BaverKoca&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaverKoca&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BaverKoca&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaverKoca&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
 
-# 🎯 Currently Focused On
+## 🎯 Currently Focused On
 
 <table>
 <tr>
-
-<td width="25%">
+<td width="50%" valign="top">
 
 ### 🚀 Building
 
 - Beat Bridge
 - FinPilot AI
-- New Products
+- New product-level software
 
 </td>
-
-<td width="25%">
+<td width="50%" valign="top">
 
 ### 🧠 Research
 
-- Operating Systems
+- Operating systems
 - Local AI
-- Autonomous Driving
-- Computer Vision
+- Autonomous driving
+- Computer vision
 
 </td>
-
-<td width="25%">
-
-### 📚 Learning
-
-- Advanced Systems
-- AI Agents
-- Cybersecurity
-- Scalable Architectures
-
-</td>
-
-<td width="25%">
-
-### 💎 Philosophy
-
-- Build real products
-- Ship software
-- Learn by creating
-- Prefer depth over hype
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 📫 Connect
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/baver-koca">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:baverkoca999@gmail.com">
-Email
-</a>
-
+  <b>Building products, not tutorials.</b>
 </p>
-
----
-
-<p align="center">
-<b>Always building.</b>
-</p>
-```
