@@ -1,180 +1,182 @@
-<!--
-**BaverKoca/BaverKoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...(function() {
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-  <img src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" alt="Spinning Donut" width="300"/>
-</div>
-
-<h1 align="center">Hi there 👋, I'm Baver Koca</h1>
-
+````md
 <p align="center">
-  <b>Computer Engineering Student | Cyprus</b><br>
-  <i>Web, Mobile, Game Development & Machine Learning Enthusiast</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:D4AF37,100:0D1117&height=220&section=header&text=Baver%20Koca&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Builder%20%7C%20Computer%20Engineering&descAlignY=58&descSize=16" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 Computer Engineering student living in Cyprus  
-- 🌱 Currently learning: Web, Mobile, Game Development, and Machine Learning  
-- 🤝 Open to collaborating on new projects  
-- 💬 Ask me about anything tech-related!
-
----
-
-### 🛠️ Skills & Technologies
-
-#### 👨‍💻 Programming Languages
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="Lua"/>
+  <b>Building production-grade software across web, AI, security, marketplaces and operating systems.</b>
 </p>
 
-#### 🧰 Technologies & Tools
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="ASP.NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="Microsoft SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB"/>
-</p>
-
-#### 🤖 AI & Data Science
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="scikit-learn"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="32" alt="HuggingFace Transformers"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="Numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV"/>
-  <img src="assets/mediapipe.svg" height="32" alt="MediaPipe"/>
-  <img src="assets/yolo-logo.png" height="32" alt="YOLO"/>
-  <img src="assets/openai.svg" height="32" alt="OpenAI API"/>
-  <img src="assets/ollama.svg" height="32" alt="Ollama"/>
-</p>
-
----
-
-### 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/baver-koca" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  <a href="https://github.com/BaverKoca?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Portfolio-D4AF37?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="mailto:baver.koca00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/baver-koca">
+    <img src="https://img.shields.io/badge/LinkedIn-Baver%20Koca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:baverkoca999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<details>
-<summary><strong>🌀 Spinning Donut — C Code Example</strong></summary>
+## About
 
-```c
-#include <stdio.h>
-#include <math.h>
-#include <string.h>
-#include <unistd.h>
+I am a Computer Engineering student focused on building serious software products with strong architecture, polished interfaces and real technical depth.
 
-int main() {
-    float A = 0, B = 0;
-    int width = 80;
-    int height = 22;
-    float z[1760];
-    char b[1760];
+My work combines **full-stack product engineering**, **AI systems**, **cybersecurity**, **operating systems**, and **autonomous driving research**.
 
-    printf("\x1b[2J");
+```txt
+Product Builder
+├── Marketplace platforms
+├── AI-powered SaaS products
+├── Health and finance applications
+└── Production-style full-stack systems
 
-    while (1) {
-        memset(b, ' ', 1760);
-        memset(z, 0, 1760 * sizeof(float));
+Technical Depth
+├── Operating systems
+├── Cybersecurity labs
+├── Local LLM experiments
+└── Autonomous driving research
+````
 
-        for (float theta = 0; theta < 2 * M_PI; theta += 0.07) {
-            for (float phi = 0; phi < 2 * M_PI; phi += 0.02) {
-                float sin_theta = sin(theta);
-                float cos_theta = cos(theta);
-                float sin_phi = sin(phi);
-                float cos_phi = cos(phi);
-                float sin_A = sin(A);
-                float cos_A = cos(A);
-                float sin_B = sin(B);
-                float cos_B = cos(B);
+---
 
-                float R1 = 1;
-                float R2 = 2;
+## Flagship Projects
 
-                float circle_x = R2 + R1 * cos_theta;
-                float circle_y = R1 * sin_theta;
+<table>
+<tr>
+<td width="50%">
 
-                float x = circle_x * (cos_B * cos_phi + sin_A * sin_B * sin_phi) - circle_y * cos_A * sin_B;
-                float y = circle_x * (sin_B * cos_phi - sin_A * cos_B * sin_phi) + circle_y * cos_A * cos_B;
-                float z_coord = 5 + cos_A * circle_x * sin_phi + circle_y * sin_A;
-                float ooz = 1 / z_coord;
+### Vistara
 
-                int xp = (int)(width / 2 + 30 * ooz * x);
-                int yp = (int)(height / 2 - 15 * ooz * y);
+Modern marketplace platform for real estate, vehicles and commercial listings.
 
-                float L = cos_phi * cos_theta * sin_B - cos_A * cos_theta * sin_phi - sin_A * sin_theta + cos_B * (cos_A * sin_theta - cos_theta * sin_A * sin_phi);
+**Stack:** Next.js · Prisma · PostgreSQL · TypeScript
+**Focus:** Marketplace architecture, seller pages, listing flows, premium listings
 
-                int luminance_index = (int)(L * 8);
-                if (luminance_index >= 0 && xp >= 0 && xp < width && yp >= 0 && yp < height) {
-                    int idx = xp + yp * width;
-                    if (ooz > z[idx]) {
-                        z[idx] = ooz;
-                        const char luminance_chars[] = ".,-~:;=!*#$@";
-                        b[idx] = luminance_chars[luminance_index > 11 ? 11 : luminance_index];
-                    }
-                }
-            }
-        }
+</td>
+<td width="50%">
 
-        printf("\x1b[H");
-        for (int k = 0; k < height * width; k++) {
-            putchar(k % width ? b[k] : '\n');
-        }
+### Nutri Pulse
 
-        A += 0.04;
-        B += 0.02;
-        usleep(30000);
-    }
+Health, nutrition and workout platform designed as a premium consumer product.
 
-    return 0;
-}
+**Stack:** Next.js · Mobile · AI-ready architecture
+**Focus:** Nutrition, workouts, body metrics, progress tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### FinPilot AI
+
+AI-powered investing terminal inspired by Bloomberg, Perplexity and modern SaaS products.
+
+**Stack:** Next.js · React · TypeScript · Charts · Local AI
+**Focus:** Portfolio, watchlist, market intelligence, AI command center
+
+</td>
+<td width="50%">
+
+### BK-OS
+
+32-bit hobby operating system built from scratch.
+
+**Stack:** C · Assembly · QEMU · Low-level systems
+**Focus:** Shell, memory, interrupts, scheduler, filesystem-style commands
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### CipherFrame
+
+Secure image encryption and messaging application.
+
+**Stack:** FastAPI · SQLite · JWT · RSA · WebSocket
+**Focus:** Encryption, authentication, secure chat, admin/client roles
+
+</td>
+<td width="50%">
+
+### CARLA Research
+
+Autonomous driving experiments using CARLA simulator.
+
+**Stack:** Python · CARLA · Computer Vision · Simulation
+**Focus:** Self-driving research, agents, perception, simulation workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,fastapi,postgres,prisma,docker,tailwind,git,github,linux,c,cpp" />
+</p>
+
+---
+
+## AI / Data / Research
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda" />
+</p>
+
+<p align="center">
+  Local LLMs · Computer Vision · Machine Learning · Autonomous Driving · Data Analysis
+</p>
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaverKoca&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaverKoca&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaverKoca&theme=github-dark-blue&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+</p>
+
+---
+
+## Current Focus
+
+```txt
+2026 Roadmap
+
+01. Ship Vistara as a real marketplace product
+02. Build Nutri Pulse as a premium health platform
+03. Develop FinPilot AI into an AI investing terminal
+04. Continue BK-OS and systems-level experiments
+05. Push deeper into local AI and autonomous driving
 ```
-</details>
+
+---
+
+## Principles
+
+```txt
+Clean architecture over shortcuts
+Premium UI over generic templates
+Real products over toy demos
+Technical depth over surface-level hype
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:D4AF37,100:0D1117&height=120&section=footer" />
+</p>
+```
