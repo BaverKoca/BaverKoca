@@ -62,8 +62,7 @@ AI investing terminal inspired by Bloomberg-style workflows, focused on portfoli
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/BaverKoca/skin-cancer-detector">
+<a href="https://github.com/BaverKoca/skin-cancer-screening-system">
   <img src="./assets/cancer-detector.png" width="100%" alt="BK-OS Preview" />
 </a>
 
